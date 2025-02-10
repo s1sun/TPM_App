@@ -1,1 +1,2 @@
-There are 54 gene_tpm_v10 gct files for 54 types of tissues.
+There are 54 gene_tpm_v10 gct files for 54 types of tissues. you can download from the link 
+https://www.gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression under line "Gene TPMS by tissue"
